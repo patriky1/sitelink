@@ -28,6 +28,7 @@
   }
   @media screen and (max-width: 600px) {
     .logo{
+      background-size: cover;
       width: 100px;
       height: 100px;
     } 
