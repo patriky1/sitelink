@@ -13,6 +13,7 @@
     border: 1px solid rgba( 255, 255, 255, 0.18 );
   
   }
+  
   .imagemgrid {
     border-radius: 100%;
     width: 100px;
@@ -20,9 +21,9 @@
   }
   .logo{
     margin-top: 380px;     
-    justify-content: center;
-    display: flex;
-    width: 42%;
+    
+    
+    width: 30%;
     height: 30%;
   }
 
@@ -41,6 +42,7 @@
 .margeml{
   position: absolute;
   top:190px;
+  color: white;
 }
 .button3{
   position: absolute;
