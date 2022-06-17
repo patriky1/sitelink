@@ -60,32 +60,32 @@
     display: flex;
     justify-content: center;
     width: 300px;
-    height: 400px;
+    height: 500px;
   }
     
   }
   
 @media screen and (max-width: 680px) {
   .margeml{
-    top: 132px;
+    top: 120px;
   }
     
   }
 
 @media screen and (max-width: 680px) {
     .button1{
-      top: 180px;
+      top: 184px;
     }}
 
 @media screen and (max-width: 680px) {
     .button3{
-      top: 235px;
+      top: 250px;
     }}
 @media screen and (max-width: 680px) {
       .button4{
-        top: 290px;
+        top: 313px;
       }}
 @media screen and (max-width: 680px) {
     .button5{
-      top: 345px;
+      top: 375px;
     }}
