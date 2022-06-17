@@ -10,7 +10,7 @@ export function GridPerfil() {
       <div fluid className="margemgeral">
         <div className="button2">
         <Row>
-          <img className="imagemgrid" src={Imggrid} alt="..." />
+          <img className="imagemgrid mt-2" src={Imggrid} alt="..." />
         </Row>
         </div>
         <div className="margeml">
