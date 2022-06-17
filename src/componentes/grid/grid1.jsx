@@ -1,7 +1,7 @@
 import React from "react";
 import { Row, Button } from "react-bootstrap";
 import Imggrid from "./imagem_grid/perfil.png";
-
+import Imggrid1 from "./imagem_grid/logo.png";
 import "./grid.css";
 
 export function GridPerfil() {
@@ -38,8 +38,10 @@ export function GridPerfil() {
           Instagram
         </Button>
         </div>
+      <div> <img className="logo" src={Imggrid1} alt="..." /> </div>
       </div>
 <p className="textofinal"> © all rights reserved, 2022.</p>
+
     </>
   );
 }

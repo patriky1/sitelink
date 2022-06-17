@@ -1,6 +1,7 @@
 
 body {
   background: url("./componentes/grid/imagem_grid/fundo.jpg");
+  background-size: cover;
   display: flex;
   flex-direction: column;
   justify-content: center;

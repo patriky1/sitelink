@@ -18,6 +18,13 @@
     width: 100px;
     height: 100px;
   }
+  .logo{
+    margin-top: 420px;     
+    justify-content: center;
+    display: flex;
+    width: 30%;
+    height: 20%;
+  }
 
 .button1{
   position: absolute;
@@ -49,7 +56,7 @@
   top: 430px;
 }
 .textofinal{
-  color: black;
+  color: white;
 }
 
 
