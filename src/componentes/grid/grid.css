@@ -15,7 +15,8 @@
   }
   
   .imagemgrid {
-    background-size: cover;
+    justify-content: center;
+    display: flex;
     border-radius: 100%;
     width: 100px;
     height: 100px;
