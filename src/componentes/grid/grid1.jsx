@@ -39,7 +39,7 @@ export function GridPerfil() {
         </Button>
         </div>
       </div>
-<p> © all rights reserved, 2022.</p>
+<p className="textofinal"> © all rights reserved, 2022.</p>
     </>
   );
 }
