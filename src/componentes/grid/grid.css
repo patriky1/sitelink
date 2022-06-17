@@ -52,19 +52,11 @@
   color: black;
 }
 
-@media screen and (max-width: 680px) {
-  .button1 .button2 .button3 .button4 .button5 .imagemgrid .textofinal{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  } }
 
 
 @media screen and (max-width: 680px) {
   .margemgeral{
-
-    margin-top: 10%;
+    position:relative;
     display: flex;
     justify-content: center;
     width: 300px;
