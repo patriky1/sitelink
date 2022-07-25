@@ -38,7 +38,7 @@ export function GridPerfil() {
           Instagram
         </Button>
         </div>
-      <div> <img className="logo" src={Imggrid1} alt="..." /> </div>
+       <img className="logo" src={Imggrid1} alt="..." />
       </div>
 <p className="textofinal"> © all rights reserved, 2022.</p>
 
