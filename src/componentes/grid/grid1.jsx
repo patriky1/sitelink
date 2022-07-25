@@ -25,7 +25,7 @@ export function GridPerfil() {
         </div>
         <div className="button3">
         <Button href="https://www.linkedin.com/in/patriky-brito/" variant="primary" size="lg">
-          Linkedin
+          LinkedIn
         </Button>
         </div>
         <div className="button4">
