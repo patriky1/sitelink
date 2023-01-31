@@ -19,7 +19,7 @@ export function GridPerfil() {
         </Row>
         </div>
         <div className="button1">
-        <Button href="https://effortless-sawine-9b623b.netlify.app" variant="primary" size="lg">
+        <Button href="https://portfoliobrito.netlify.app" variant="primary" size="lg">
           Portfólio
         </Button>
         </div>
