@@ -40,7 +40,7 @@ export function GridPerfil() {
         </div>
        <img className="logo" src={Imggrid1} alt="..." />
       </div>
-<p className="textofinal"> © all rights reserved, 2022.</p>
+<p className="textofinal"> © all rights reserved, 2024.</p>
 
     </>
   );
